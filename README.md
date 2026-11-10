@@ -6,6 +6,10 @@ Bar Swipe is an LSPosed module that hides the Android status bar with an upward 
 
 [Download APK](https://github.com/Xposed-Modules-Repo/dev.rooni.barswipe/releases/latest)
 
+| Status bar visible | Status bar hidden |
+| --- | --- |
+| ![Status bar visible](docs/screenshots/status-bar-visible.png) | ![Status bar hidden after swiping up](docs/screenshots/status-bar-hidden.png) |
+
 ## Usage
 
 Requires Android 13 or later and LSPosed with modern Xposed API 101 support. Enable the module for System UI (`com.android.systemui`) and reboot.

@@ -6,6 +6,10 @@ Bar Swipe — модуль для LSPosed, который скрывает ст�
 
 [Скачать APK](https://github.com/Xposed-Modules-Repo/dev.rooni.barswipe/releases/latest)
 
+| Статус-бар виден | Статус-бар скрыт |
+| --- | --- |
+| ![Статус-бар виден](docs/screenshots/status-bar-visible.png) | ![Статус-бар скрыт после свайпа вверх](docs/screenshots/status-bar-hidden.png) |
+
 ## Использование
 
 Нужны Android 13 или новее и LSPosed с поддержкой современного Xposed API 101. Включите модуль для System UI (`com.android.systemui`) и перезагрузите устройство.
