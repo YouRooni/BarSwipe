@@ -26,4 +26,4 @@ Bar Swipe — модуль для LSPosed, который скрывает ст�
 
 На Windows запустите `gradlew.bat assembleDebug`. APK появится в `app/build/outputs/apk/debug/app-debug.apk`.
 
-Автор: [YouRooni.t.me](https://t.me/YouRooni)
+Код модуля: [лицензия MIT](LICENSE) · Автор: [YouRooni.t.me](https://t.me/YouRooni)

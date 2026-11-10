@@ -26,4 +26,4 @@ Use JDK 21 and Android SDK Platform 35. Set `ANDROID_HOME` to your SDK path.
 
 On Windows, run `gradlew.bat assembleDebug`. The APK is at `app/build/outputs/apk/debug/app-debug.apk`.
 
-Author: [YouRooni.t.me](https://t.me/YouRooni)
+Module code: [MIT License](LICENSE) · Author: [YouRooni.t.me](https://t.me/YouRooni)
