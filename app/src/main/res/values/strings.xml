@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bar Swipe</string>
+    <string name="xposed_description">Свайп вверх по статус-бару прячет его, свайп вниз возвращает</string>
+</resources>

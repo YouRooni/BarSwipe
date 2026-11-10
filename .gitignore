@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+.kotlin/
+*.iml
+build/
+local.properties
+tmp/
+*.jks
+*.keystore
+keystore.properties
+/agent_diary.md
+/lsposed_repo/
+/lsposed_release_assets/
+/push_to_lsposed_repo.ps1
